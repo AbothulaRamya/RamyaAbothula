@@ -76,20 +76,6 @@ Actively seeking opportunities in **Data Analytics**, **Business Analytics**, **
 
 ## 📊 GitHub Profile
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AbothulaRamya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-### 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AbothulaRamya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbothulaRamya&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbothulaRamya&layout=compact&theme=tokyonight&hide_border=true)
-
 ### 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AbothulaRamya&theme=tokyonight)
