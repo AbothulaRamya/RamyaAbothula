@@ -74,46 +74,15 @@ Actively seeking opportunities in **Data Analytics**, **Business Analytics**, **
 
 ---
 
-## 📊 GitHub Stats & Activity:
+## 📊 GitHub Profile
 
-### Overall Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbothulaRamya&show_icons=true&theme=tokyonight&hide_border=false)
+Visit my GitHub profile to explore repositories, projects, and contributions:
 
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbothulaRamya&layout=compact&theme=tokyonight&hide_border=false)
-
-### Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=AbothulaRamya&theme=tokyonight)
-
-### GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbothulaRamya&theme=tokyo-night)
-
-### Contributions This Year
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=AbothulaRamya&show_icons=true&hide=contribs&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AbothulaRamya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
----
-
-## 📈 Quick Stats Summary
-
-- **Total Repositories:** Check [your profile](https://github.com/AbothulaRamya)
-- **Followers:** [View on GitHub](https://github.com/AbothulaRamya?tab=followers)
-- **Following:** [View on GitHub](https://github.com/AbothulaRamya?tab=following)
-- **Most Used Language:** Python
-- **Contribution Highlights:** Data Analytics | Python Development | Web Applications
-
----
-
-## 🔗 View Full GitHub Profile
-
-[![GitHub Profile](https://img.shields.io/badge/View_Full_Profile-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbothulaRamya)
-[![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-%230077B5.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbothulaRamya?tab=repositories)
-[![Contributions](https://img.shields.io/badge/View_Contributions-%231f6feb.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbothulaRamya?tab=contributions)
+- [GitHub Profile](https://github.com/AbothulaRamya)
+- [Repositories](https://github.com/AbothulaRamya?tab=repositories)
+- [Contributions](https://github.com/AbothulaRamya?tab=contributions)
+- [Followers](https://github.com/AbothulaRamya?tab=followers)
+- [Following](https://github.com/AbothulaRamya?tab=following)
 
 ---
 
