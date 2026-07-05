@@ -76,6 +76,10 @@ Actively seeking opportunities in **Data Analytics**, **Business Analytics**, **
 
 ## 📊 GitHub Profile
 
+<p align="left">
+	<img src="https://komarev.com/ghpvc/?username=AbothulaRamya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 ### 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AbothulaRamya&theme=tokyonight)
