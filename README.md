@@ -88,24 +88,6 @@ Visit my GitHub profile to explore repositories, projects, and contributions:
 - [Followers](https://github.com/AbothulaRamya?tab=followers)
 - [Following](https://github.com/AbothulaRamya?tab=following)
 
-### 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AbothulaRamya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbothulaRamya&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbothulaRamya&layout=compact&theme=tokyonight)
-
-### 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AbothulaRamya&theme=tokyonight)
-
-### 📊 Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbothulaRamya&theme=tokyo-night)
-
 ### 🔄 Recent Activity
 
 I regularly work on projects related to data analytics, Python development, web applications, and AI-driven solutions. You can view my latest activity and project updates directly on GitHub through the links above.
