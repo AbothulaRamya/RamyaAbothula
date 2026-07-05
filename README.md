@@ -80,6 +80,24 @@ Actively seeking opportunities in **Data Analytics**, **Business Analytics**, **
   <img src="https://komarev.com/ghpvc/?username=AbothulaRamya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+### 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AbothulaRamya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbothulaRamya&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbothulaRamya&layout=compact&theme=tokyonight&hide_border=true)
+
+### 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AbothulaRamya&theme=tokyonight)
+
+### 📊 Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbothulaRamya&theme=tokyo-night)
+
 Visit my GitHub profile to explore repositories, projects, and contributions:
 
 - [GitHub Profile](https://github.com/AbothulaRamya)
@@ -87,16 +105,6 @@ Visit my GitHub profile to explore repositories, projects, and contributions:
 - [Contributions](https://github.com/AbothulaRamya?tab=contributions)
 - [Followers](https://github.com/AbothulaRamya?tab=followers)
 - [Following](https://github.com/AbothulaRamya?tab=following)
-
-### 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AbothulaRamya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbothulaRamya&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbothulaRamya&layout=compact&theme=tokyonight)
 
 ### 🔄 Recent Activity
 
